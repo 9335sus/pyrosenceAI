@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Zone 1",
+    "camera_id": "CAM-01",
+    "source": "zone-1"
+  },
+  {
+    "name": "Zone 2",
+    "camera_id": "CAM-02",
+    "source": "zone-2"
+  },
+  {
+    "name": "Zone 3",
+    "camera_id": "CAM-03",
+    "source": "zone-3"
+  },
+  {
+    "name": "Zone 4",
+    "camera_id": "CAM-04",
+    "source": "zone-4"
+  },
+  {
+    "name": "Zone 5",
+    "camera_id": "CAM-05",
+    "source": "zone-5"
+  },
+  {
+    "name": "Zone 6",
+    "camera_id": "CAM-06",
+    "source": "zone-6"
+  },
+  {
+    "name": "Zone 7",
+    "camera_id": "CAM-07",
+    "source": "zone-7"
+  },
+  {
+    "name": "Zone 8",
+    "camera_id": "CAM-08",
+    "source": "zone-8"
+  },
+  {
+    "name": "Zone 9",
+    "camera_id": "CAM-09",
+    "source": "zone-9"
+  },
+  {
+    "name": "Zone 10",
+    "camera_id": "CAM-10",
+    "source": "zone-10"
+  },
+  {
+    "name": "Zone 11",
+    "camera_id": "CAM-11",
+    "source": "zone-11"
+  },
+  {
+    "name": "Zone 12",
+    "camera_id": "CAM-12",
+    "source": "zone-12"
+  },
+  {
+    "name": "Zone 13",
+    "camera_id": "CAM-13",
+    "source": "zone-13"
+  },
+  {
+    "name": "Zone 14",
+    "camera_id": "CAM-14",
+    "source": "zone-14"
+  },
+  {
+    "name": "Zone 15",
+    "camera_id": "CAM-15",
+    "source": "zone-15"
+  },
+  {
+    "name": "Zone 16",
+    "camera_id": "CAM-16",
+    "source": "zone-16"
+  }
+]
